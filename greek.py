@@ -9,3 +9,7 @@ countFromOneToTen(11)
 def anotherFunction(number):
   print(number)
 anotherFunction(23)
+
+#adding one more unnecessary functino
+def whatis(twenty):
+  print(twenty*twenty)
